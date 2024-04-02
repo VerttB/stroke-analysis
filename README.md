@@ -15,7 +15,7 @@ Attribute Information
 *Note: "Unknown" in smoking_status means that the information is unavailable for this patient
 
 # capitulo 5:
-    -
+
 capitulo 6
     - media
     - desvio em relacao a media
