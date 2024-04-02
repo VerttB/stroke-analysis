@@ -14,7 +14,8 @@ Attribute Information
 12) stroke: 1 if the patient had a stroke or 0 if not
 *Note: "Unknown" in smoking_status means that the information is unavailable for this patient
 
-
+# capitulo 5:
+    -
 capitulo 6
     - media
     - desvio em relacao a media
