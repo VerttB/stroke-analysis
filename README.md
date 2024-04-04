@@ -1,4 +1,6 @@
-Attribute Information
+# Stroke analysis
+
+## Attribute Information
 
 1) id: unique identifier
 2) gender: "Male", "Female" or "Other"
@@ -14,18 +16,29 @@ Attribute Information
 12) stroke: 1 if the patient had a stroke or 0 if not
 *Note: "Unknown" in smoking_status means that the information is unavailable for this patient
 
-# capitulo 5:
+## capitulo 3
 
-capitulo 6
-    - media
-    - desvio em relacao a media
-    - moda
-    - mediana
-    - posicao relativa da media, mediana e da moda
-    - separatrizes: quartis e percentis
+## capitulo 4
 
-capitulo 7
-    - dispersao/variabilidade
-    - amplitude total
-    - variancia/desvio padrao
-    - coeficiente de variacao
+## capitulo 5:
+
+## capitulo 6
+   - media
+   - desvio em relacao a media
+   - moda
+   - mediana
+   - posicao relativa da media, mediana e da moda
+   - separatrizes: quartis e percentis
+
+## capitulo 7
+   - dispersao/variabilidade
+   - amplitude total
+   - variancia/desvio padrao
+   - coeficiente de variacao
+
+## capitulo 8
+
+## capitulo 11
+
+
+
