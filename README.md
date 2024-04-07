@@ -1,5 +1,21 @@
 # Stroke analysis
 
+## Trabalho de Probabilidade e Estatística - Sistemas de Informação 2024.1
+
+Alunos:
+
+- Alysson dos Anjos
+- Brunna Gabriella da Silva
+- Letícia Almeida
+- Victor Hugo Bittencourt
+
+## Tema: Análise da predição de casos de AVCs 
+
+- link da base de dados: 
+    https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+- livro utilizado:
+   'Estatística Fácil', Antônio Arnot Crespo
+
 ## Attribute Information
 
 1) id: unique identifier
