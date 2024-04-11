@@ -21,3 +21,7 @@ print(df_filtro)
 data_AVC = df[df['stroke'] == 1]
 print(data_AVC)
 
+##correlacao entre fumantes, doenca cardiaca e AVC
+df_correlacao = (df['heart_disease'] == 1) & (df['smoking_status'] == "smoked") & (df['stroke'] == 1)
+print(df_correlacao)
+
