@@ -31,30 +31,3 @@ Alunos:
 11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
 12) stroke: 1 if the patient had a stroke or 0 if not
 *Note: "Unknown" in smoking_status means that the information is unavailable for this patient
-
-## capitulo 3
-
-## capitulo 4
-
-## capitulo 5:
-
-## capitulo 6
-   - media
-   - desvio em relacao a media
-   - moda
-   - mediana
-   - posicao relativa da media, mediana e da moda
-   - separatrizes: quartis e percentis
-
-## capitulo 7
-   - dispersao/variabilidade
-   - amplitude total
-   - variancia/desvio padrao
-   - coeficiente de variacao
-
-## capitulo 8
-
-## capitulo 11
-
-
-
