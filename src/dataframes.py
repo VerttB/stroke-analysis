@@ -9,7 +9,7 @@ df = df.sort_values(by=['age'], kind='stable')
 df = df.rename(columns={'Residence_type': 'residence_type'})
 pd.options.display.float_format = '{:.2f}'.format
 df['age'] = df['age'].astype(int)
-print(df)
+print(df.to_string())
 #Valores ordenados e transformados em int para facilitar calculos e análises
 
 #aplicando filtro de idade
